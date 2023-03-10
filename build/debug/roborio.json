@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "10.13.89.2",
+    "project": "2023-miniature-disco-Imported"
+  }
+]
